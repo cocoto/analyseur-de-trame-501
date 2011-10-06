@@ -1,16 +1,15 @@
-#include “eth_lib.h”
-struct eth_frame
+#include <eth_lib.h>
+struct eth_frame* lire_trame()
 {
-	char[50];
+	char ch[50];
 	int nb;
 	static struct eth_frame latrame
-	{
-		fscanf(stdio,”%s”,ch);
-		fscanf(stdio,”%s”,ch);
-		fscanf(stdio,”%s”,ch);
-		fscanf(stdio,”%d”,&nb);
-		get_buf((unsigned char*) &latrame,nb);
-		return &latrame;
+	fscanf(stdio,”%s”,ch);
+	fscanf(stdio,”%s”,ch);
+	fscanf(stdio,”%s”,ch);
+	fscanf(stdio,”%d”,&nb);
+	get_buf((unsigned char*) &latrame,nb);
+	return &latrame;
 }
 void main()
 {
