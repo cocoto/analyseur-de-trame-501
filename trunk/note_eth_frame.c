@@ -11,6 +11,7 @@ struct eth_frame* lire_trame()
 	get_buf((unsigned char*) &latrame,nb);
 	return &latrame;
 }
+}
 void main()
 {
 	struct eth_frame *trame;
