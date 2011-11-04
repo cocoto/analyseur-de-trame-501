@@ -23,7 +23,7 @@ struct tab_stat
 int recherche(char* adr , tab_stat *stat ){
 printf("recherche\n");
 do
-{if (!(strcmp(adr,stat->ad)))
+{if ((strcmp(adr,stat->ad))==0)
 	{return 1;}
 	else {
 	stat=stat->suivant;
