@@ -58,7 +58,7 @@ return 1;
 int main ()
 {
 	struct eth_frame *trame;
-	int i=4;			//LIMITE DE BOUCLE (TRAVAIL LOCAL)
+	int i=100;			//LIMITE DE BOUCLE (TRAVAIL LOCAL)
 	tab_stat* stat=(tab_stat*)malloc (sizeof (tab_stat));
 	//affiche(stat);		//AFFICHE UN TABLEAU VIDE
 	while(i>0)
