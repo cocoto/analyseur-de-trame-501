@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <string.h>
 #include "eth_lib.h"
+
+
 void envois_trame(char *source, char *dest, char *message)
 {	
 	//Génération de la trame en question
@@ -15,8 +17,12 @@ void envois_trame(char *source, char *dest, char *message)
 	printf("%s\n",commande);
 	system(commande);
 }
+
+/* ALGORITHME DE TEST */
+/*
 int main ()
 {
 	envois_trame("00:12:3f:3c:5e:6e","00:12:3f:3c:5e:da","coucou");
 	return 0;
 }
+*/
