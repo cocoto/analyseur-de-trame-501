@@ -2,6 +2,26 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
+//Fonction de conversion d'une adress de type "00123f3c5e6e" en "00:12:3f:3c:5e:6e"
+char *convaddr(char* adresse)
+{
+	char *adr_dest=malloc(sizeof(char)*18);
+	sprintf(adr_dest,"%c%c:%c%c:%c%c:%c%c:%c%c:%c%c",
+		adresse[0],
+		adresse[1],
+		adresse[2],
+		adresse[3],
+		adresse[4],
+		adresse[5],
+		adresse[6],
+		adresse[7],
+		adresse[8],
+		adresse[9],
+		adresse[10],
+		adresse[11]);
+	return adr_dest;
+}
+
 
 //Fonction lire_trame qui permet de lire l'ensemble de la trame et retourne cette dernière.
 struct eth_frame* lire_trame()
@@ -18,7 +38,7 @@ struct eth_frame* lire_trame()
 }
 int main (int argc, char *argv[])
 {
-	char* adresse=argv[1];
+	char* adresse=argv[1];	//Notre adresse passée en paramètre
 	char * message="Bonjour de Quentin & Adrien";
 	while(1)
 	{
@@ -26,9 +46,8 @@ int main (int argc, char *argv[])
 		if(strcmp(char_to_charhexa(trame -> adr_dest,6),adresse)==0 && strcmp(char_to_charhexa(trame -> type,2),"9000")==0)
 		//Si nous sommes le destinataire et type=9000
 		{
-			char *adresse_cible=char_to_charhexa(trame -> adr_send,6);
 			//@TODO Vérifier le message à retourner et adapter le code
-			envois_trame(adresse,adresse_cible,strcat(message,adresse_cible));
+			envois_trame(adresse,convaddr(char_to_charhexa(trame-> adr_send,6)),message);
 		}
 	}
 	return 0;
