@@ -39,15 +39,23 @@ struct eth_frame* lire_trame()
 int main (int argc, char *argv[])
 {
 	char* adresse=argv[1];	//Notre adresse passée en paramètre
-	char * message="Bonjour de Quentin & Adrien";
+	char * message=" : recu par Quentin & Adrien";
 	while(1)
 	{
+		/*==============ENVOIS EN BOUCLE DE BONJOUR !=====================*/
+		envois_trame(adresse,"ff:ff:ff:ff:ff:ff","Bonjour de Quentin & Adrien");
+		
+		
+		/*==============REPONSE AUX BONJOURS=========================*/
 		struct eth_frame *trame = lire_trame();
 		if(strcmp(char_to_charhexa(trame -> adr_dest,6),adresse)==0 && strcmp(char_to_charhexa(trame -> type,2),"9000")==0)
 		//Si nous sommes le destinataire et type=9000
 		{
-			//@TODO Vérifier le message à retourner et adapter le code
-			envois_trame(adresse,convaddr(char_to_charhexa(trame-> adr_send,6)),message);
+			if(strstr(message,"Bonjour de")!=NULL && strstr(message,"reçu par")==NULL)
+			//Si le message contient "Bonjour de", mais ne contient pas "reçu par" (évite les boucles)
+			{
+				envois_trame(adresse,convaddr(char_to_charhexa(trame-> adr_send,6)),strcat(char_to_charhexa(trame->data,strlen(trame->data)),message));
+			}
 		}
 	}
 	return 0;
