@@ -19,7 +19,7 @@ struct eth_frame* lire_trame()
 int main (int argc, char *argv[])
 {
 	char* adresse=argv[1];
-	char * message="coucou ";
+	char * message="Bonjour de Quentin & Adrien";
 	while(1)
 	{
 		struct eth_frame *trame = lire_trame();
