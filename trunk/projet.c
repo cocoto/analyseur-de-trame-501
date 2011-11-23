@@ -3,9 +3,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 //Fonction de conversion d'une adress de type "00123f3c5e6e" en "00:12:3f:3c:5e:6e"
-char *convaddr(char* adresse)
+void convaddr(char* adresse, char* adr_dest)
 {
-	char *adr_dest=malloc(sizeof(char)*18);
 	sprintf(adr_dest,"%c%c:%c%c:%c%c:%c%c:%c%c:%c%c",
 		adresse[0],
 		adresse[1],
@@ -19,7 +18,6 @@ char *convaddr(char* adresse)
 		adresse[9],
 		adresse[10],
 		adresse[11]);
-	return adr_dest;
 }
 
 
@@ -40,6 +38,7 @@ int main (int argc, char *argv[])
 {
 	char* adresse=argv[1];	//Notre adresse passée en paramètre
 	char * message=" : recu par Quentin & Adrien";
+  char * adr_hexa=malloc(sizeof(char)*18);
 	while(1)
 	{
 		/*==============ENVOIS EN BOUCLE DE BONJOUR !=====================*/
@@ -48,7 +47,8 @@ int main (int argc, char *argv[])
 		
 		/*==============REPONSE AUX BONJOURS=========================*/
 		struct eth_frame *trame = lire_trame();
-		if(strcmp(char_to_charhexa(trame -> adr_dest,6),adresse)==0 && strcmp(char_to_charhexa(trame -> type,2),"9000")==0)
+    convaddr(char_to_charhexa(trame-> adr_dest,6),adr_hexa);
+		if((strcmp(adr_hexa,adresse)==0 || strcmp(adr_hexa,"ff:ff:ff:ff:ff:ff")==0) && strcmp(char_to_charhexa(trame -> type,2),"9000")==0)
 		//Si nous sommes le destinataire et type=9000
 		{
 			if(strstr(message,"Bonjour de")!=NULL && strstr(message,"reçu par")==NULL)
