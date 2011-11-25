@@ -1,0 +1,247 @@
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./sniff | ./recevoir 
+sniff: hardware address: e0:cb:4e:2f:fc:98 IP address: 192.168.1.3
+ device: eth0
+1 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+2 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+3 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+4 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+5 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+6 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+7 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+8 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+9 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+10 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+11 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+12 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+13 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+14 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+15 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+16 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+17 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+18 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+19 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+20 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+21 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+22 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+23 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+24 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+25 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+26 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+27 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+28 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+29 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+30 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+31 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+32 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+33 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+34 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+35 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+36 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+37 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+38 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+39 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+40 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+41 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+42 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+43 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+44 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+45 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+46 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+47 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+48 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+49 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+Adresses détectées sur le réseau : 
+ ========================================= 
+3333000000fb ::: e0cb4e2ffc98 ::: 01005e0000fb ::: 00114304cb38 ::: ffffffffffff ::: 000000000000 :::  ::: 
+===============================================================================
+50 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+51 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+52 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+53 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+54 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+55 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+56 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+57 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+58 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+59 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+60 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+61 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+62 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+63 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+64 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+65 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+66 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+67 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+68 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+69 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+70 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+71 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+72 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+73 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+74 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+75 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+76 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+77 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+78 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+79 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+80 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+81 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+82 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+83 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+84 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+85 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+86 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+87 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+88 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+89 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+90 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+91 --> 00114304cb38 : Bonjour de Guillaume et Pierre 
+92 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+93 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+94 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+95 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+96 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+97 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+98 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+99 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+3333000000fb ::: e0cb4e2ffc98 ::: 01005e0000fb ::: 00114304cb38 ::: ffffffffffff ::: 000000000000 :::  ::: 
+===============================================================================
+100 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+101 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+102 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+103 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+104 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+105 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+106 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+107 --> e0cb4e2ffc98 : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+^C
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# 
+
+
+
+
+
+
+
+
+
+
+
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./sniff | ./reponse e0:cb:4e:2f:fc:98
+sniff: hardware address: e0:cb:4e:2f:fc:98 IP address: 192.168.1.3
+ device: eth0
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+^C
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# 
+

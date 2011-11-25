@@ -121,10 +121,10 @@ int open_interface(char *device)
 		p_error("socket - could not open interface");
 		return(-1);
 	}
-	if (strncmp(device, "eth", 3) != 0) {
+	/*if (strncmp(device, "eth", 3) != 0) {
 		p_error("only eth devices supported");
 		return(-1);
-	}
+	}*/
 	strcpy(ifr.ifr_name, device); /* the device to be used */
 	if (ioctl(fd, SIOCGIFFLAGS, &ifr) < 0) {
 		p_error("could not get interface flags");
