@@ -1,0 +1,334 @@
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./sniff | ./recevoir 
+sniff: hardware address: e0:cb:4e:2f:fc:98 IP address: 192.168.1.3
+ device: eth0
+1 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+2 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+3 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+4 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+5 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+6 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+7 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+8 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+9 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+10 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+11 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+12 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+13 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+14 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+15 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+16 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+17 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+18 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+19 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+20 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+21 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+22 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+23 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+24 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+25 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+26 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+27 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+28 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+29 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+30 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+31 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+32 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+33 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+34 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+35 --> 00114304cb38 : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+36 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+37 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+38 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+39 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+40 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+41 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+42 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+43 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+44 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+45 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+46 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+47 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+48 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+49 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+00114304cb38 ::: ffffffffffff ::: 01005e000016 ::: 333300000016 ::: 333300000002 ::: 01005e0000fb ::: 00266c8a6869 ::: e0cb4e2ffc98 ::: 3333000000fb ::: 000000000000 :::  ::: 
+===============================================================================
+50 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+51 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+52 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+53 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+54 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+55 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+56 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+57 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+58 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+59 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+60 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+61 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+62 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+63 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+64 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+65 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+66 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+67 --> e0cb4e2ffc98 : Bonjour de Quentin et Adrien 
+
+
+
+
+
+
+
+
+
+
+
+
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+^C
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ^C
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# clear
+
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./envoyer 
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# 
+
+
+
+
+
+
+
+
+root@cocoto-K52F:/home/cocoto/analyseur-de-trame-501# ./sniff | ./reponse e0:cb:4e:2f:fc:98
+sniff: hardware address: e0:cb:4e:2f:fc:98 IP address: 192.168.1.3
+ device: eth0
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
