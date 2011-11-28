@@ -1,4 +1,4 @@
-#include "eth_lib.h"
+//#include "eth_lib.h"
 
 typedef struct tab_stat tab_stat;
 struct eth_frame * lire_trame() // procedure d'une trame
