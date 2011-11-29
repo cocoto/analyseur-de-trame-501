@@ -45,6 +45,29 @@ linkcolor= blue,%couleur des liens internes
 	\subsection{Accusé la réception d'un message}
 	blabla
 	\section{Réception des trames}
+	La reception de trames se fait par redirection de la sortie du sniffer vers notre programme défini par \textbf{recevoir\_trame.c}, au moyen d'un pipeline.
+	Les informations reçues sont traitées une à une par la fonction \textit{lire\_trame()}. On vérifie alors si l'adresse de destination et l'adresse source nous sont déjà connus puis, si l'un et/ou l'autre est ``nouveau'', on l'ajoute à notre liste des matériels connectés.
+
+	Nous avons choisi de représenter la liste des adresses rencontrées par une liste chainée. Cela a pour avantage de permettre l'ajout d'un maillon sans connaitre la taille actuelle de la liste, au contraire d'un tableau qu'il aurai fallu redimensionner au fur et à mesure.
+	
+	Dans un second temps, on vérifie si la trame appartient au type défini spécialement pour le TP (9000). Si c'est le cas, on affiche à l'écran les informations suivantes :
+	\begin{itemize}
+		\item Numéro de la trame (au moyen d'un compteur)
+		\item Adresse source
+		\item Contenu de la trame
+	\end{itemize}
+
+	Enfin, chaque fois que Y trames ont été affichées \footnote{Y étant défini au début du programme}, on affiche un récapitulatif des adresses qui circulent sur le réseau. Suivant le choix de Y (50 dans nos exemples) et en fonction du traffic sur le reseau, on beneficie alors d'un affichage clair des trames qui circulent avec un bilan regulier des utilisateurs presents. %d'ailleurs on pourrai de temps en temps vider la liste pour se debarasser des utilisateurs inactifs sur le reseau depuis trop longtemps.
+	\subsection{la fonction lire\_trame}
+	La fonction \textit{lire\_trame} est définie dans \textbf{fonctions.c}. Elle retire les 3 premiers caractères de la sortie du sniffer qui ne nous intéressent pas, puis récupère la longueur de la trame. Apres quoi elle capte toute la trame grâce à la fonction \textit{get\_buf} et la retourne en sortie.
+	\subsection{la fonction recherche}
+	La fonction \textit{ recherche} parcoure la liste chainée à partir du premier maillon et s'arrête si en passant au suivant elle arrive à NULL. Il est possible de faire le test à la fin car l'initialisation de la liste garanti l'existence d'au moins un maillon different de NULL.
+
+	Pour chaque maillon, on compare le champ adresse à celle que l'on cherche : s'il y a correspondance on sort directement en renvoyant 1, sinon on passe au suivant. Si la recherche a eu lieu jusqu'au bout sans succes, on retourne 0.
+	\subsection{la fonction ajout}
+	La fonction d'ajout ajoute un élément en tete de liste. On crée simplement un nouvel élément que l'on défini comme l'adresse à ajouter et dont le suivant est l'ancienne tete de liste.
+	\subsection{la fonction affiche}
+	La fonction  \textit{affiche} parcoure la liste de la même maniere que  \textit{recherche} . Pour chaque étape de la liste, elle affiche l'adresse et separe les adresses par :::
 	\section{Envois des trames (type 9000)}
 	\section{Synthèse et automatisation}
 	\section{Bilan}
