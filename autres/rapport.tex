@@ -1,0 +1,49 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc} % un package
+\usepackage[francais]{babel} %active le mode francais
+\usepackage[top=2cm , bottom=2cm , left=2cm , right=2cm]{geometry} %propriétés de notre page
+\usepackage{amsmath} %liste de symboles et applications mathématiques
+\usepackage{color} %Permet d'utiliser la couleur dans nos documents
+\usepackage{listings} %Paquet de coloration syntaxique (langages)
+\usepackage{hyperref} % Créer des liens et des signets 
+
+% Informations du rapport
+\title {Rapport \\ Travaux Pratiques Réseaux (Ethernet)}
+\author {Quentin Tonneau - Adrien Lardenois}
+\date{}
+%Propriétés des liens
+\hypersetup{
+colorlinks=true, %colorise les liens  
+urlcolor= blue, %couleur des hyperliens 
+linkcolor= blue,%couleur des liens internes 
+} 
+
+\begin{document}
+	\maketitle %insère l'en-tête du rapport
+	\tableofcontents %insère la table des matières ATTENTION : Compiler deux fois en cas de changements
+	\newpage % Nouvelle page
+	
+	
+	
+	
+	
+	
+	\section{Introduction}
+	Après avoir mis en réseau un parc de pc (cf rapport tp \no 1), nous nous intéressons maintenant à la communication entre ces derniers. En s'appuyant sur le cours de réseaux Ethernet et nos connaissances en langage C dans l'environnement Linux, nous allons concevoir une suite d'applications destinées à interagir avec les PC voisins. Une bibliothèque de création et d'envoi de trame, ainsi qu'un sniffeur de réseau (affiche l'ensemble des trames circulant au voisinage de notre matériel) nous sont fournis afin de franchir les couches non étudiées en classe. %@TODO compléter les couches du modèle
+	\subsection{Écouter le réseau}
+	Avant de communiquer sur un réseau, il nous faut un certain nombre d'informations sur le matériel avec lequel on souhaite ``entrer en discussion'', c'est à dire :
+	%liste à puce
+	\begin{itemize}
+		\item Le nombre de personnes présentes sur le réseau
+		\item Leurs adresses
+		\item Le protocole de communication
+		\item La nature des messages (émetteur, destinataire, type de message)
+	\end{itemize}
+	Pour cela, nous concevons un programme qui filtre les trames circulant sur le réseau, en ne conservant que les trames de type 9000 dont nous sommes le destinataire, puis affiche le message en question,tout en dressant une liste de toutes les machines (adresses MAC) présentes sur le réseau. On pourrait associer ce programme à un module de conversation type IRC\footnote{Internet Relay Tchat}, qui n'affiche que les messages personnels ou à destination de l'ensemble des utilisateurs.
+	\subsection{Envoyer un message}
+	Après avoir pris connaissance des appareils connectés à notre pc, nous pouvons maintenant écrire un programme d'envois de message.
+	\subsection{Accusé la réception d'un message}
+	blablablabla
+	
+	nouveau paragraphe
+\end{document}
