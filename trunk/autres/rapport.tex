@@ -6,6 +6,7 @@
 \usepackage{color} %Permet d'utiliser la couleur dans nos documents
 \usepackage{listings} %Paquet de coloration syntaxique (langages)
 \usepackage{hyperref} % Créer des liens et des signets 
+\usepackage[babel=true]{csquotes} %permet les quotations (guillemets)
 
 % Informations du rapport
 \title {Rapport \\ Travaux Pratiques Réseaux (Ethernet)}
@@ -29,7 +30,7 @@ linkcolor= blue,%couleur des liens internes
 	
 	
 	\section{Introduction}
-	Après avoir mis en réseau un parc de pc (cf rapport tp \no 1), nous nous intéressons maintenant à la communication entre ces derniers. En s'appuyant sur le cours de réseaux Ethernet et nos connaissances en langage C dans l'environnement Linux, nous allons concevoir une suite d'applications destinées à interagir avec les PC voisins. Une bibliothèque de création et d'envoi de trame, ainsi qu'un sniffeur de réseau (affiche l'ensemble des trames circulant au voisinage de notre matériel) nous sont fournis afin de franchir les couches non étudiées en classe. %@TODO compléter les couches du modèle
+	Après avoir mis en réseau un parc de pc (cf rapport tp \no 1), nous nous intéressons maintenant à la communication entre ces derniers. En s'appuyant sur le cours de réseaux Ethernet et nos connaissances en langage C dans l'environnement Linux, nous allons concevoir une suite d'applications destinées à interagir avec les PC voisins. Une bibliothèque de création et d'envoi de trame, ainsi qu'un sniffeur de réseau (affiche l'ensemble des trames circulant au voisinage de notre matériel) nous sont fournis afin de franchir les couches non étudiées en classe (4,5,6 et 7).
 	\subsection{Écouter le réseau}
 	Avant de communiquer sur un réseau, il nous faut un certain nombre d'informations sur le matériel avec lequel on souhaite ``entrer en discussion'', c'est à dire :
 	%liste à puce
@@ -39,11 +40,58 @@ linkcolor= blue,%couleur des liens internes
 		\item Le protocole de communication
 		\item La nature des messages (émetteur, destinataire, type de message)
 	\end{itemize}
-	Pour cela, nous concevons un programme qui filtre les trames circulant sur le réseau, en ne conservant que les trames de type 9000 dont nous sommes le destinataire, puis affiche le message en question,tout en dressant une liste de toutes les machines (adresses MAC) présentes sur le réseau. On pourrait associer ce programme à un module de conversation type IRC\footnote{Internet Relay Tchat}, qui n'affiche que les messages personnels ou à destination de l'ensemble des utilisateurs.
+	Pour cela, nous concevons un programme qui filtre les trames circulant sur le réseau, en ne conservant que les trames de type 9000 dont nous sommes le destinataire, puis affiche le message en question,tout en dressant une liste de toutes les machines (adresses MAC\footnote{Media access control}) présentes sur le réseau. On pourrait associer ce programme à un module de conversation type IRC\footnote{Internet Relay Tchat}, qui n'affiche que les messages personnels ou à destination de l'ensemble des utilisateurs.
 	\subsection{Envoyer un message}
-	Après avoir pris connaissance des appareils connectés à notre pc, nous pouvons maintenant écrire un programme d'envois de message.
+	Après avoir pris connaissance du materiel voisin, nous écrivons une fonction d'envois de trame simple, ainsi qu'un algorithme d'envois en boucle d'un ``bonjour'' sur le réseau (broadcast). Le type choisi pour ces échange est toujours 9000, afin de pouvoir être facilement reçu par les autres groupes du projet. Nous construisons la trame nécéssaire, et l'envoyons à l'aide des bibliothèques fournies, et du programme write\_eth\_frame.
 	\subsection{Accusé la réception d'un message}
-	blabla
+	L'unification des deux parties précédantes nous permet de programmer un répondeur automatique, qui en reçevant une trame de type 9000 sous la forme ``Bonjour de XX'' répond immédiatement à son emmeteur ``Bonjour de XX : bien reçu par Quentin et Adrien'', accusant ainsi la réception du message. Nous ré-implémentons l'analyse de la première partie, ainsi que nos connaissances en matière de traitement de la langue pour détecter les messages qui nous destinés, et nous utilisons la fonction d'envois de trame crée en deuxième partie pour répondre aux messages.
+	\section{Structure du projet}
+	\subsection{Structure des trames}
+	Avant de nous lancer dans l'écriture des algorithmes de ce projet, nous avons dù analyser les bibliothèques fournies, et définir la structure de notre projet. La structure d'une trame est imposée, sous la forme :
+	\lstset{language=C}
+	\begin{lstlisting}
+	struct eth_frame {
+	char adr_dest[6];
+	char adr_send[6];
+	char type[2];
+	char data[1500 - 6 - 6 - 2];
+	};
+	\end{lstlisting}
+	On remarque donc que notre trame sera définie par deux adresses (destinataire et emetteur) MAC au format hexadécimal ($ 6$ octets $\to 12$ caracteres), d'un type (même encodage), et de données, n'excedant pas $1500-6-6-2=1486$ caractères. Une structure étant allouée de manière contigüe en mémoire, l'accès à l'adresse de l'emetteur pourra se faire sous la forme trame$\to$adr\_send ou bien (char*)trame[6] .
+	\subsection{Arborescence du projet}
+	Afin de faciliter la compréhension du projet, l'archive fournie est organisée de la sorte :
+	\begin{itemize}
+	\item Un fichier de compilation (script sh) se trouve à la racine
+	\item Les fichiers sources (.c et .h) utiles au projet sont dans un répertoire \textbf{src}
+	\item Une fois compilés, les 5 programmes se trouves dans le repertoire \textbf{bin}
+	\end{itemize}
+		\renewcommand{\labelitemii}{+}
+	Liste et description des fichiers :
+	\begin{itemize}
+	\item \textbf{compilation.sh} : Fichier de Compilation (voir partie suivante)
+	\item \textcolor{blue}{src}
+		\begin{itemize}
+		\item \textbf{envoyer\_trame .c/.h} : Fichier source de l'envois de trame (bonjour)
+		\item \textbf{eth\_lib .c/.h} : Bibliothèque d'utilisation du réseau fournie
+		\item \textbf{fonctions .c/.h} : Bibliothèque de fonctions communes au trois principaux programmes
+		\item \textbf{inet\_str.h} : Structures des trames, nécéssaire à la compilation de eth\_lib
+		\item \textbf{recevoir\_trame .c/.h} : Programme d'affichage des trames circulant sur le réseau
+		\item \textbf{reponse\_auto .c/.h} : Programme de réponse automatique aux messages recu (accusé de réception)
+		\item \textbf{sniff.c} : Programme de sniffage du réseau (fourni)
+		\item \textbf{write\_eth\_frame.c} : Programme permettant l'envois de la trame donnée en premier paramètre (fourni)
+		\end{itemize}
+	\item \textcolor{blue}{bin}
+		\begin{itemize}
+		\item \textbf{envois} : programme d'envois des bonjours
+		\item \textbf{recevoir} : programme d'affichage des trames
+		\item \textbf{reponse} : programme d'accusé de reception
+		\item \textbf{sniff} : programme utilisé pour l'execution de recevoir et reponse
+		\item \textbf{write\_eth\_frame} : programme appelé par envois et reponse
+		\end{itemize}
+	\end{itemize}
+	\subsection{Compilation et mode d'emplois}
+		\subsubsection{Compilation}
+		Pour compiler l'ensemble du projet, il suffit d'executer le fichier \textbf{compilation.sh}
 	\section{Réception des trames}
 	La reception de trames se fait par redirection de la sortie du sniffer vers notre programme défini par \textbf{recevoir\_trame.c}, au moyen d'un pipeline.
 	Les informations reçues sont traitées une à une par la fonction \textit{lire\_trame()}. On vérifie alors si l'adresse de destination et l'adresse source nous sont déjà connus puis, si l'un et/ou l'autre est ``nouveau'', on l'ajoute à notre liste des matériels connectés.
@@ -69,6 +117,33 @@ linkcolor= blue,%couleur des liens internes
 	\subsection{la fonction affiche}
 	La fonction  \textit{affiche} parcoure la liste de la même maniere que  \textit{recherche} . Pour chaque étape de la liste, elle affiche l'adresse et separe les adresses par :::
 	\section{Envois des trames (type 9000)}
+	\subsection{Fonction d'envois}
+	Maintenant que nous recevons les trames de type 9000, nous devons à notre tour, pour :
+	\begin{itemize}
+	\item Nous identifier sur le réseau
+	\item Échanger des informations
+	\item Accuser la réception d'informations externes
+	\end{itemize}
+	Pour celà, une fonction nommée ``envois\_trame'' dans le fichier fonctions.c construit la trame en fonctions des paramètres :
+	\begin{lstlisting}
+	//Envois une trame sur le reseau, de type 9000
+        void envois_trame(char *source, char *dest, char *message)
+	\end{lstlisting}
+	où source et dest sont les adresses MAC des machines concernées au format XX:XX:XX:XX:XX:XX. Pour celà, nous avons créé une procédure convaddr qui converti les adresses en ajoutant le caractère \enquote{:}. Ensuite, nous créeons la trame à l'aide de la fonction
+	\begin{lstlisting}
+	int make_ping_request(char* eth_addr_dest, char* eth_addr_send,
+	 char* type_frame, char* data, struct eth_frame* frame);
+	\end{lstlisting}
+	dont la valeur de retour nous indique la taille de la trame générée. Nous convertissons ensuite cette trame au format hexadécimal par la fonction char\_to\_charhexa et nous envoyons la trame en passant cette dernière en paramètre du programme write\_eth\_frame fourni dans le projet.
+	\subsection{Programme de présentation}
+	Afin de nous présenté une fois connecté sur le réseau, nous avons créé le programme \textit{recevoir\_trame.c} dont les paramètres suivants sont à définir avant la compilation :
+	\begin{lstlisting}
+	#define NOMBRE_ENVOIS 10  //Nombre de message a envoyer
+	#define TEMPS_ATTENTE 1	  //Temps d'attente entre deux envois (secondes)
+	#define ADRESSE "e0:cb:4e:2f:fc:98" //Adresse par defaut
+	#define MESSAGE "Bonjour de Quentin et Adrien" //Message
+	\end{lstlisting}
+	Ce programme envois un certain nombre de fois un message d'identification sur le réseau, à l'adresse de broadcast \textit{ff:ff:ff:ff:ff:ff}.
 	\section{Synthèse et automatisation}
 	\section{Bilan}
 \end{document}

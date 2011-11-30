@@ -12,7 +12,7 @@ main(int argc, char **argv)
 	char* chaine; 
 	char *cp;
 	int nb, nbsend;
-	char * device = "eth0"; /* device to read by default */
+	char * device = "wlan0"; /* device to read by default */
 	int fd ; /* descriptor to read from */
 	struct eth_frame f; /* ethernet frames */
 	char* chaine_frame;

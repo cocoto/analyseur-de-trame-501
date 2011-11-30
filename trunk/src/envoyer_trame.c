@@ -1,5 +1,5 @@
-#define NOMBRE_ENVOIS 10
-#define TEMPS_ATTENTE 1
+#define NOMBRE_ENVOIS 200
+#define TEMPS_ATTENTE 0
 #define ADRESSE "e0:cb:4e:2f:fc:98"
 #define MESSAGE "Bonjour de Quentin et Adrien"
 #include <stdio.h>

@@ -55,7 +55,7 @@ void envois_trame(char *source, char *dest, char *message)
 	struct eth_frame latrame;
 	int taille=make_ping_request(dest,source,type,message,&latrame);
 	char *tramehexa=char_to_charhexa((unsigned char*)&latrame,taille);
-	char commande[500];
+	char commande[1600];
 	strcpy(commande,"./write_eth_frame ");
 	strcat(commande,tramehexa);
 	//printf("%s\n",commande);
