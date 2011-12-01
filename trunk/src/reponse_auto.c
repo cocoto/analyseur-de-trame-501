@@ -32,7 +32,7 @@ int main (int argc, char *argv[])
 			if((strcmp(adr_hexa_dest,adresse)==0 || strcmp(adr_hexa_dest,"ff:ff:ff:ff:ff:ff")==0) && strcmp(adr_hexa_send,adresse)!=0)
 			//Si nous sommes concernés (mais nous ne sommes pas l'emmeteur)
 			{
-				printf("%s \n",trame->data);
+				printf("%s \n",trame->data); //On imprime le message
 				if(est_dans(trame->data,':')!=1)
 				//Si le message n'est pas une réponse (format XXXXX : XXXXX)
 				{
