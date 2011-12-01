@@ -1,0 +1,1091 @@
+
+93 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+94 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+95 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+96 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+97 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+98 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+99 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+100 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+101 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+102 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+103 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+104 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+105 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+106 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+107 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+108 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+109 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+110 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+111 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+112 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+113 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+114 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+115 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+116 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+117 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+118 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+119 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+120 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+121 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+122 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+123 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+124 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+125 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+126 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+127 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+128 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+129 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+130 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+131 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+132 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+133 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+134 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+135 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+136 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+137 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+138 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+139 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+140 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+141 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+142 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+143 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+144 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+145 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+146 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+147 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+148 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+149 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+150 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+151 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+152 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+153 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+154 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+155 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+156 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+157 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+158 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+159 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+160 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+161 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+162 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+163 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+164 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+165 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+166 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+167 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+168 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+169 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+170 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+171 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+172 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+173 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+174 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+175 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+176 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+177 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+178 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+179 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+180 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+181 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+182 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+183 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+184 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+185 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+186 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+187 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+188 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+189 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+190 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+191 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+192 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+193 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+194 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+195 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+196 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+197 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+198 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+199 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+200 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+201 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+202 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+203 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+204 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+205 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+206 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+207 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+208 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+209 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+210 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+211 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+212 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+213 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+214 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+215 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+216 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+217 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+218 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+219 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+220 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+221 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+222 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+223 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+224 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+225 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+226 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+227 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+228 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+229 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+230 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+231 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+232 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+233 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+234 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+235 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+236 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+237 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+238 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+239 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+240 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+241 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+242 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+243 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+244 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+245 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+246 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+247 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+248 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+249 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+250 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+251 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+252 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+253 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+254 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+255 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+256 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+257 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+258 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+259 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+260 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+261 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+262 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+263 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+264 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+265 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+266 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+267 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+268 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+269 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+270 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+271 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+272 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+273 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+274 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+275 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+276 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+277 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+278 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+279 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+280 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+281 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+282 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+283 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+284 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+285 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+286 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+287 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+288 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+289 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+290 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+291 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+292 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+293 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+294 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+295 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+296 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+297 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+298 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+299 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+300 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+301 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+302 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+303 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+304 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+305 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+306 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+307 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+308 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+309 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+310 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+311 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+312 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+313 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+314 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+315 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+316 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+317 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+318 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+319 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+320 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+321 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+322 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+323 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+324 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+325 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+326 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+327 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+328 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+329 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+330 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+331 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+332 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+333 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+334 --> 4cedde11f02b : Bonjour de Guillaume et Pierre 
+335 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+336 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+337 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+338 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+339 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+340 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+341 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+342 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+343 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+344 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+345 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+346 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+347 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+348 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+349 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+350 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+351 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+352 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+353 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+354 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+355 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+356 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+357 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+358 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+359 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+360 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+361 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+362 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+363 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+364 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+365 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+366 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+367 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+368 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+369 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+370 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+371 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+372 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+373 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+374 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+375 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+376 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+377 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+378 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+379 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+380 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+381 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+382 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+383 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+384 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+385 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+386 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+387 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+388 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+389 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+390 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+391 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+392 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+393 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+394 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+395 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+396 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+397 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+398 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+399 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+400 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+401 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+402 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+403 --> 0025d3cc475b : Bonjour de Guillaume et Pierre : recu par Quentin & Adrien 
+404 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+405 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+406 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+407 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+408 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+409 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+410 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+411 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+412 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+413 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+414 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+415 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+416 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+417 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+418 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+419 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+420 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+421 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+422 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+423 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+424 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+425 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+426 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+427 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+428 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+429 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+430 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+431 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+432 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+433 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+434 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+435 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+436 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+437 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+438 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+439 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+440 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+441 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+442 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+443 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+444 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+445 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+446 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+447 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+448 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+449 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+450 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+451 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+452 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+453 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+454 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+455 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+456 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+457 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+458 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+459 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+460 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+461 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+462 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+463 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+464 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+465 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+466 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+467 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+468 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+469 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+470 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+471 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+472 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+473 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+474 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+475 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+476 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+477 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+478 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+479 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+480 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+481 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+482 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+483 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+484 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+485 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+486 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+487 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+488 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+489 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+490 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+491 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+492 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+493 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+494 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+495 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+496 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+497 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+498 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+499 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+500 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+501 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+502 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+503 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+504 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+505 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+506 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+507 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+508 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+509 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+510 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+511 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+512 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+513 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+514 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+515 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+516 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+517 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+518 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+519 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+520 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+521 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+522 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+523 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+524 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+525 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+526 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+527 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+528 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+529 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+530 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+531 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+532 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+533 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+534 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+535 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+536 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+537 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+538 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+539 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+540 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+541 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+542 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+543 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+544 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+545 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+546 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+547 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+548 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+549 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+Adresses détectées sur le réseau : 
+ ========================================= 
+0025d3cc475b ::: 4cedde11f02b ::: ffffffffffff :::  ::: 
+===============================================================================
+550 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+551 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+552 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+553 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+554 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+555 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+556 --> 0025d3cc475b : Bonjour de Quentin et Adrien 
+557 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+558 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+559 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+560 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+561 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+562 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+563 --> 4cedde11f02b : Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+
+
+root@cocoto-K52F:/home/cocoto/Documents/universite/L3/Reseaux/TP/projet/bin# ./envois 00:25:d3:cc:47:5b
+envois de Bonjour de Quentin et Adrien no 1 
+envois de Bonjour de Quentin et Adrien no 2 
+envois de Bonjour de Quentin et Adrien no 3 
+envois de Bonjour de Quentin et Adrien no 4 
+envois de Bonjour de Quentin et Adrien no 5 
+envois de Bonjour de Quentin et Adrien no 6 
+envois de Bonjour de Quentin et Adrien no 7 
+envois de Bonjour de Quentin et Adrien no 8 
+envois de Bonjour de Quentin et Adrien no 9 
+envois de Bonjour de Quentin et Adrien no 10 
+envois de Bonjour de Quentin et Adrien no 11 
+envois de Bonjour de Quentin et Adrien no 12 
+envois de Bonjour de Quentin et Adrien no 13 
+envois de Bonjour de Quentin et Adrien no 14 
+envois de Bonjour de Quentin et Adrien no 15 
+envois de Bonjour de Quentin et Adrien no 16 
+envois de Bonjour de Quentin et Adrien no 17 
+envois de Bonjour de Quentin et Adrien no 18 
+envois de Bonjour de Quentin et Adrien no 19 
+envois de Bonjour de Quentin et Adrien no 20 
+envois de Bonjour de Quentin et Adrien no 21 
+envois de Bonjour de Quentin et Adrien no 22 
+envois de Bonjour de Quentin et Adrien no 23 
+envois de Bonjour de Quentin et Adrien no 24 
+envois de Bonjour de Quentin et Adrien no 25 
+envois de Bonjour de Quentin et Adrien no 26 
+envois de Bonjour de Quentin et Adrien no 27 
+envois de Bonjour de Quentin et Adrien no 28 
+envois de Bonjour de Quentin et Adrien no 29 
+envois de Bonjour de Quentin et Adrien no 30 
+envois de Bonjour de Quentin et Adrien no 31 
+envois de Bonjour de Quentin et Adrien no 32 
+envois de Bonjour de Quentin et Adrien no 33 
+envois de Bonjour de Quentin et Adrien no 34 
+envois de Bonjour de Quentin et Adrien no 35 
+envois de Bonjour de Quentin et Adrien no 36 
+envois de Bonjour de Quentin et Adrien no 37 
+envois de Bonjour de Quentin et Adrien no 38 
+envois de Bonjour de Quentin et Adrien no 39 
+envois de Bonjour de Quentin et Adrien no 40 
+envois de Bonjour de Quentin et Adrien no 41 
+envois de Bonjour de Quentin et Adrien no 42 
+envois de Bonjour de Quentin et Adrien no 43 
+envois de Bonjour de Quentin et Adrien no 44 
+envois de Bonjour de Quentin et Adrien no 45 
+envois de Bonjour de Quentin et Adrien no 46 
+envois de Bonjour de Quentin et Adrien no 47 
+envois de Bonjour de Quentin et Adrien no 48 
+envois de Bonjour de Quentin et Adrien no 49 
+envois de Bonjour de Quentin et Adrien no 50 
+envois de Bonjour de Quentin et Adrien no 51 
+envois de Bonjour de Quentin et Adrien no 52 
+envois de Bonjour de Quentin et Adrien no 53 
+envois de Bonjour de Quentin et Adrien no 54 
+envois de Bonjour de Quentin et Adrien no 55 
+envois de Bonjour de Quentin et Adrien no 56 
+envois de Bonjour de Quentin et Adrien no 57 
+envois de Bonjour de Quentin et Adrien no 58 
+envois de Bonjour de Quentin et Adrien no 59 
+envois de Bonjour de Quentin et Adrien no 60 
+envois de Bonjour de Quentin et Adrien no 61 
+envois de Bonjour de Quentin et Adrien no 62 
+envois de Bonjour de Quentin et Adrien no 63 
+envois de Bonjour de Quentin et Adrien no 64 
+envois de Bonjour de Quentin et Adrien no 65 
+envois de Bonjour de Quentin et Adrien no 66 
+envois de Bonjour de Quentin et Adrien no 67 
+envois de Bonjour de Quentin et Adrien no 68 
+envois de Bonjour de Quentin et Adrien no 69 
+envois de Bonjour de Quentin et Adrien no 70 
+envois de Bonjour de Quentin et Adrien no 71 
+envois de Bonjour de Quentin et Adrien no 72 
+envois de Bonjour de Quentin et Adrien no 73 
+envois de Bonjour de Quentin et Adrien no 74 
+envois de Bonjour de Quentin et Adrien no 75 
+envois de Bonjour de Quentin et Adrien no 76 
+envois de Bonjour de Quentin et Adrien no 77 
+envois de Bonjour de Quentin et Adrien no 78 
+envois de Bonjour de Quentin et Adrien no 79 
+envois de Bonjour de Quentin et Adrien no 80 
+envois de Bonjour de Quentin et Adrien no 81 
+envois de Bonjour de Quentin et Adrien no 82 
+envois de Bonjour de Quentin et Adrien no 83 
+envois de Bonjour de Quentin et Adrien no 84 
+envois de Bonjour de Quentin et Adrien no 85 
+envois de Bonjour de Quentin et Adrien no 86 
+envois de Bonjour de Quentin et Adrien no 87 
+envois de Bonjour de Quentin et Adrien no 88 
+envois de Bonjour de Quentin et Adrien no 89 
+envois de Bonjour de Quentin et Adrien no 90 
+envois de Bonjour de Quentin et Adrien no 91 
+envois de Bonjour de Quentin et Adrien no 92 
+envois de Bonjour de Quentin et Adrien no 93 
+envois de Bonjour de Quentin et Adrien no 94 
+envois de Bonjour de Quentin et Adrien no 95 
+envois de Bonjour de Quentin et Adrien no 96 
+envois de Bonjour de Quentin et Adrien no 97 
+envois de Bonjour de Quentin et Adrien no 98 
+envois de Bonjour de Quentin et Adrien no 99 
+envois de Bonjour de Quentin et Adrien no 100 
+envois de Bonjour de Quentin et Adrien no 101 
+envois de Bonjour de Quentin et Adrien no 102 
+envois de Bonjour de Quentin et Adrien no 103 
+envois de Bonjour de Quentin et Adrien no 104 
+envois de Bonjour de Quentin et Adrien no 105 
+envois de Bonjour de Quentin et Adrien no 106 
+envois de Bonjour de Quentin et Adrien no 107 
+envois de Bonjour de Quentin et Adrien no 108 
+envois de Bonjour de Quentin et Adrien no 109 
+envois de Bonjour de Quentin et Adrien no 110 
+envois de Bonjour de Quentin et Adrien no 111 
+envois de Bonjour de Quentin et Adrien no 112 
+envois de Bonjour de Quentin et Adrien no 113 
+envois de Bonjour de Quentin et Adrien no 114 
+envois de Bonjour de Quentin et Adrien no 115 
+envois de Bonjour de Quentin et Adrien no 116 
+envois de Bonjour de Quentin et Adrien no 117 
+envois de Bonjour de Quentin et Adrien no 118 
+envois de Bonjour de Quentin et Adrien no 119 
+envois de Bonjour de Quentin et Adrien no 120 
+envois de Bonjour de Quentin et Adrien no 121 
+envois de Bonjour de Quentin et Adrien no 122 
+envois de Bonjour de Quentin et Adrien no 123 
+envois de Bonjour de Quentin et Adrien no 124 
+envois de Bonjour de Quentin et Adrien no 125 
+envois de Bonjour de Quentin et Adrien no 126 
+envois de Bonjour de Quentin et Adrien no 127 
+envois de Bonjour de Quentin et Adrien no 128 
+envois de Bonjour de Quentin et Adrien no 129 
+envois de Bonjour de Quentin et Adrien no 130 
+envois de Bonjour de Quentin et Adrien no 131 
+envois de Bonjour de Quentin et Adrien no 132 
+envois de Bonjour de Quentin et Adrien no 133 
+envois de Bonjour de Quentin et Adrien no 134 
+envois de Bonjour de Quentin et Adrien no 135 
+envois de Bonjour de Quentin et Adrien no 136 
+envois de Bonjour de Quentin et Adrien no 137 
+envois de Bonjour de Quentin et Adrien no 138 
+envois de Bonjour de Quentin et Adrien no 139 
+envois de Bonjour de Quentin et Adrien no 140 
+envois de Bonjour de Quentin et Adrien no 141 
+envois de Bonjour de Quentin et Adrien no 142 
+envois de Bonjour de Quentin et Adrien no 143 
+envois de Bonjour de Quentin et Adrien no 144 
+envois de Bonjour de Quentin et Adrien no 145 
+envois de Bonjour de Quentin et Adrien no 146 
+envois de Bonjour de Quentin et Adrien no 147 
+envois de Bonjour de Quentin et Adrien no 148 
+envois de Bonjour de Quentin et Adrien no 149 
+envois de Bonjour de Quentin et Adrien no 150 
+envois de Bonjour de Quentin et Adrien no 151 
+envois de Bonjour de Quentin et Adrien no 152 
+envois de Bonjour de Quentin et Adrien no 153 
+envois de Bonjour de Quentin et Adrien no 154 
+envois de Bonjour de Quentin et Adrien no 155 
+envois de Bonjour de Quentin et Adrien no 156 
+envois de Bonjour de Quentin et Adrien no 157 
+envois de Bonjour de Quentin et Adrien no 158 
+envois de Bonjour de Quentin et Adrien no 159 
+envois de Bonjour de Quentin et Adrien no 160 
+envois de Bonjour de Quentin et Adrien no 161 
+envois de Bonjour de Quentin et Adrien no 162 
+envois de Bonjour de Quentin et Adrien no 163 
+envois de Bonjour de Quentin et Adrien no 164 
+envois de Bonjour de Quentin et Adrien no 165 
+envois de Bonjour de Quentin et Adrien no 166 
+envois de Bonjour de Quentin et Adrien no 167 
+envois de Bonjour de Quentin et Adrien no 168 
+envois de Bonjour de Quentin et Adrien no 169 
+envois de Bonjour de Quentin et Adrien no 170 
+envois de Bonjour de Quentin et Adrien no 171 
+envois de Bonjour de Quentin et Adrien no 172 
+envois de Bonjour de Quentin et Adrien no 173 
+envois de Bonjour de Quentin et Adrien no 174 
+envois de Bonjour de Quentin et Adrien no 175 
+envois de Bonjour de Quentin et Adrien no 176 
+envois de Bonjour de Quentin et Adrien no 177 
+envois de Bonjour de Quentin et Adrien no 178 
+envois de Bonjour de Quentin et Adrien no 179 
+envois de Bonjour de Quentin et Adrien no 180 
+envois de Bonjour de Quentin et Adrien no 181 
+envois de Bonjour de Quentin et Adrien no 182 
+envois de Bonjour de Quentin et Adrien no 183 
+envois de Bonjour de Quentin et Adrien no 184 
+envois de Bonjour de Quentin et Adrien no 185 
+envois de Bonjour de Quentin et Adrien no 186 
+envois de Bonjour de Quentin et Adrien no 187 
+envois de Bonjour de Quentin et Adrien no 188 
+envois de Bonjour de Quentin et Adrien no 189 
+envois de Bonjour de Quentin et Adrien no 190 
+envois de Bonjour de Quentin et Adrien no 191 
+envois de Bonjour de Quentin et Adrien no 192 
+envois de Bonjour de Quentin et Adrien no 193 
+envois de Bonjour de Quentin et Adrien no 194 
+envois de Bonjour de Quentin et Adrien no 195 
+envois de Bonjour de Quentin et Adrien no 196 
+envois de Bonjour de Quentin et Adrien no 197 
+envois de Bonjour de Quentin et Adrien no 198 
+envois de Bonjour de Quentin et Adrien no 199 
+envois de Bonjour de Quentin et Adrien no 200 
+root@cocoto-K52F:/home/cocoto/Documents/universite/L3/Reseaux/TP/projet/bin# 
+
+
+
+
+root@cocoto-K52F:/home/cocoto/Documents/universite/L3/Reseaux/TP/projet/bin# ./sniff | ./reponse 00:25:d3:cc:47:5b
+sniff: get_ip_addr - error (Cannot assign requested address)
+sniff: hardware address: e0:cb:4e:2f:fc:98 IP address: 255.127.0.0
+ device: eth0
+sniff: get_ip_addr - error (Cannot assign requested address)
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Guillaume et Pierre 
+Envois d'une réponse...
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+Bonjour de Quentin et Adrien : recu par Guillaume et Pierre 
+

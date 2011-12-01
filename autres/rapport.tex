@@ -7,6 +7,7 @@
 \usepackage{listings} %Paquet de coloration syntaxique (langages)
 \usepackage{hyperref} % Créer des liens et des signets 
 \usepackage[babel=true]{csquotes} %permet les quotations (guillemets)
+\usepackage{graphicx} %Importation d'image
 
 % Informations du rapport
 \title {Rapport \\ Travaux Pratiques Réseaux (Ethernet)}
@@ -90,8 +91,61 @@ linkcolor= blue,%couleur des liens internes
 		\end{itemize}
 	\end{itemize}
 	\subsection{Compilation et mode d'emplois}
+		\subsubsection{Définition des variables avant compilation}
+		Afin de compiler les différents algorithmes selon nos besoins, quelques variables (DEFINE) sont à préciser au début de chaque fichier source. En voiçi la liste :
+		\begin{itemize}
+		\item envoyer\_trame.c
+			\begin{itemize}
+			\item NOMBRE\_ENVOIS 200 \textit{Nombre de messages à envoyer}
+			\item TEMPS\_ATTENTE 0    \textit{Temps entre deux envois (seconde)}
+			\item ADRESSE ``e0:cb:4e:2f:fc:98" \textit{Adresse par défaut de la machine}
+			\item MESSAGE``Bonjour de Quentin et Adrien" \textit{Message à envoyer}
+			\end{itemize}
+		\item recevoir\_trame.c
+			\begin{itemize}
+			\item TEMPS\_AFFICHAGE 50 \textit{Nombre de trame avant affichage de la liste}
+			\end{itemize}
+		\item reponse\_auto.c
+			\begin{itemize}
+			\item ADRESSE ``e0:cb:4e:2f:fc:98" \textit{Adresse par défaut de la machine}
+			\end{itemize}
+		\end{itemize}
 		\subsubsection{Compilation}
 		Pour compiler l'ensemble du projet, il suffit d'executer le fichier \textbf{compilation.sh}
+		
+		Si la compilation échoue, ou pour une architechture spécifique, voiçi les étapes de la compilation :
+		\lstset{language=bash}
+		\begin{lstlisting}
+	#Cree le repertoire des programmes compiles
+	mkdir bin
+	#Compile la bibliotheque fournie (necessite inet_str.h)
+	gcc src/eth_lib.c -c
+	#Compile le logiciel d'envois de trame
+	gcc src/write_eth_frame.c eth_lib.o -o bin/write_eth_frame
+	#Compile le sniffeur
+	gcc src/sniff.c eth_lib.o -o bin/sniff
+	#Compile le programme d'envois
+	gcc src/envoyer_trame.c eth_lib.o src/fonctions.c -o bin/envois
+	#Compile le programme d'affichage
+	gcc src/recevoir_trame.c eth_lib.o src/fonctions.c -o bin/recevoir
+	#Compile le programme de reponse auto
+	gcc src/reponse_auto.c eth_lib.o src/fonctions.c -o bin/reponse
+	#Supprime le fichier de bibliotheque genere
+	rm eth_lib.o
+		\end{lstlisting}
+		\subsubsection{Notes de compilation}
+		Les éventuelles érreures dues à la compilation proviennent des bibliothèques et structures fournies par l'enseignant, mais n'impactent aucunement sur le fonctionnement des différents programmes générés. On remarque également que lors de la compilation du sniffeur sur des machines en environnement ``Ubuntu 11.04 et ultérieur version 32bits'' provoque des érreurs lors de l'execution (segmentation fault). Il est donc conseillé en cas d'erreur de compilation de reprendre les executables générés dans l'archive du projet, ou de contacter les auteurs des sources.
+		\subsection{Manuel d'Instruction}
+		Les programmes d'envois de trame (reponse et envois) prennent en paramètre l'adresse MAC\footnote{Les lettres doivent y figurer en minuscule} de la machine. Par défaut, l'adresse prise sera l'adresse indiquée dans les sources avant compilation (cf partie ci-dessus). Les programme de réception et d'analyse de trame (reponse et recevoir) doivent posseder en entrée la sortie standard de sniff au moyen d'un ``pipe'' ($|$).\\
+		Selon les besoins, voici la liste des commandes d'éxecution :
+		\begin{itemize}
+		\item \textbf{bin/sniff $|$ bin/recevoir} : Affichage des trames (9000) qui circulent sur le réseau
+		\item \textbf{bin/sniff $|$ bin/reponse ADRESSEMAC} : Affiche les messages qui nous sont destinés et répond automatiquement
+		\item \textbf{bin/envois ADRESSEMAC} :		 Envois une série de trame dans un interval de temps (cf partie 2)
+		\end{itemize}
+		\subsection{Exemple de disposition}
+		Pour utiliser pleinement les fonctions de ce projet, il faut donc ouvrir et disposer trois terminaux. Voiçi un exemple obtenu en placant l'afficheur en haut de l'écran, et les autres programmes en bas :\\
+		\begin{center}\includegraphics[width=15cm]{capture_ecran_rapport.png}\end{center}
 	\section{Réception des trames}
 	La reception de trames se fait par redirection de la sortie du sniffer vers notre programme défini par \textbf{recevoir\_trame.c}, au moyen d'un pipeline.
 	Les informations reçues sont traitées une à une par la fonction \textit{lire\_trame()}. On vérifie alors si l'adresse de destination et l'adresse source nous sont déjà connus puis, si l'un et/ou l'autre est ``nouveau'', on l'ajoute à notre liste des matériels connectés.
@@ -118,32 +172,39 @@ linkcolor= blue,%couleur des liens internes
 	La fonction  \textit{affiche} parcoure la liste de la même maniere que  \textit{recherche} . Pour chaque étape de la liste, elle affiche l'adresse et separe les adresses par :::
 	\section{Envois des trames (type 9000)}
 	\subsection{Fonction d'envois}
-	Maintenant que nous recevons les trames de type 9000, nous devons à notre tour, pour :
+	Maintenant que nous recevons les trames de type 9000, nous devons à notre tour envoyer, afin de :
 	\begin{itemize}
 	\item Nous identifier sur le réseau
 	\item Échanger des informations
 	\item Accuser la réception d'informations externes
 	\end{itemize}
 	Pour celà, une fonction nommée ``envois\_trame'' dans le fichier fonctions.c construit la trame en fonctions des paramètres :
-	\begin{lstlisting}
-	//Envois une trame sur le reseau, de type 9000
-        void envois_trame(char *source, char *dest, char *message)
-	\end{lstlisting}
+	\lstset{language=C}
+\begin{lstlisting}
+//Envois une trame sur le reseau, de type 9000
+void envois_trame(char *source, char *dest, char *message)
+\end{lstlisting}
 	où source et dest sont les adresses MAC des machines concernées au format XX:XX:XX:XX:XX:XX. Pour celà, nous avons créé une procédure convaddr qui converti les adresses en ajoutant le caractère \enquote{:}. Ensuite, nous créeons la trame à l'aide de la fonction
-	\begin{lstlisting}
-	int make_ping_request(char* eth_addr_dest, char* eth_addr_send,
-	 char* type_frame, char* data, struct eth_frame* frame);
-	\end{lstlisting}
+	\lstset{language=C}
+\begin{lstlisting}
+int make_ping_request(char* eth_addr_dest, char* eth_addr_send,
+ char* type_frame, char* data, struct eth_frame* frame);
+\end{lstlisting}
 	dont la valeur de retour nous indique la taille de la trame générée. Nous convertissons ensuite cette trame au format hexadécimal par la fonction char\_to\_charhexa et nous envoyons la trame en passant cette dernière en paramètre du programme write\_eth\_frame fourni dans le projet.
 	\subsection{Programme de présentation}
-	Afin de nous présenté une fois connecté sur le réseau, nous avons créé le programme \textit{recevoir\_trame.c} dont les paramètres suivants sont à définir avant la compilation :
-	\begin{lstlisting}
-	#define NOMBRE_ENVOIS 10  //Nombre de message a envoyer
-	#define TEMPS_ATTENTE 1	  //Temps d'attente entre deux envois (secondes)
-	#define ADRESSE "e0:cb:4e:2f:fc:98" //Adresse par defaut
-	#define MESSAGE "Bonjour de Quentin et Adrien" //Message
-	\end{lstlisting}
+	Afin de nous présenter une fois connecté sur le réseau, nous avons créé le programme \textit{recevoir\_trame.c} dont les paramètres suivants sont à définir avant la compilation :
+	\lstset{language=C}
+\begin{lstlisting}
+#define NOMBRE_ENVOIS 10  //Nombre de message a envoyer
+#define TEMPS_ATTENTE 1	  //Temps d'attente entre deux envois (secondes)
+#define ADRESSE "e0:cb:4e:2f:fc:98" //Adresse par defaut
+#define MESSAGE "Bonjour de Quentin et Adrien" //Message
+\end{lstlisting}
 	Ce programme envois un certain nombre de fois un message d'identification sur le réseau, à l'adresse de broadcast \textit{ff:ff:ff:ff:ff:ff}.
+	
+	
+	
+	
 	\section{Synthèse et automatisation}
 	\section{Bilan}
 \end{document}
